@@ -1,9 +1,3 @@
-# Coucou les amis, c'est Allan !
-
-<img src="https://github-readme-stats.vercel.app/api?username=hhhallan&show_icons=true&theme=gruvbox" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hhhallan&layout=compact" />
-
 <p align="center">
 <h1>👋🏽, I am Allan!</h2> 
 </p>
@@ -39,10 +33,10 @@
 
 #### Social 👥
 
-[![Linkedin](https://img.shields.io/badge/-Djadda%20Farid-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/allan-leblond-4ab302201/)  
+[![Linkedin](https://img.shields.io/badge/-Leblond%20Allan-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/allan-leblond-4ab302201/)  
 
 ### Stats 📈
 
-<img align="left" width="47%" height="350px" src="https://github-readme-stats.vercel.app/api?username=hhhallande=stars&show_icons=true&theme=blueberry" />
+<img align="left" width="47%" height="350px" src="https://github-readme-stats.vercel.app/api?username=hhhallan&hide=stars&show_icons=true&theme=gruvbox" />
 
-<img align="left" width="47%" height="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hhhallan&layout=compact&theme=blueberry" />
+<img align="left" width="47%" height="350px" src="https://github-readme-stats.vercel.app/api?username=hhhallan&show_icons=true&theme=gruvbox" />
