@@ -39,4 +39,4 @@
 
 <img align="left" width="47%" height="350px" src="https://github-readme-stats.vercel.app/api?username=hhhallan&hide=stars&show_icons=true&theme=gruvbox" />
 
-<img align="left" width="47%" height="350px" src="https://github-readme-stats.vercel.app/api?username=hhhallan&show_icons=true&theme=gruvbox" />
+<img align="left" width="47%" height="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hhhallan&layout=compact&theme=gruvbox" />
