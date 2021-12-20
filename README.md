@@ -29,7 +29,8 @@
 
 ### IDEs & Editors
 
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![PHPStorm](https://img.shields.io/badge/phpstorm-b345f1.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![WebStorm](https://img.shields.io/badge/webstorm-00ced8.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 #### Social 👥
 
